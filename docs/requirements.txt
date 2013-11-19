@@ -1,5 +1,7 @@
-Flask==0.10
+Flask==0.10.1
 gevent==0.13.8
 gunicorn==18.0
 supervisor==3.0
 Pillow==2.2.1
+redis==2.8.0
+rq==0.3.11
